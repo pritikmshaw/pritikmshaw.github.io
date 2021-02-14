@@ -1,2 +1,2 @@
 # pritikmshaw.github.io
-my personal website
+my personal website under development
